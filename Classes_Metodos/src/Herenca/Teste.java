@@ -15,6 +15,7 @@ public class Teste {
         Mae mae = new Mae();
         mae.setNome("Mae");
         mae.andar();
+        mae.correr();
 
         Filha filha = new Filha();
         filha.setNome("Filha");
