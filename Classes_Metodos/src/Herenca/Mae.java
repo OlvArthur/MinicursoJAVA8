@@ -24,4 +24,7 @@ public class Mae {
     public void andar() {
         System.out.println("A "+ this.nome +" Está andando...");
     }
+    public void correr(){
+        System.out.println("A "+ this.nome +" Está correndo...");
+    }
 }
